@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tangweiyang
+
 - <h1 align="center">Hi 👋, I'm tangweiyang</h1>
 <h3 align="center">I come from Skudai,Johor</h3>
 
@@ -20,28 +20,7 @@
 
 - 📄 Know about my experiences [https://github.com/tangweiyang](https://github.com/tangweiyang)
 
-- ⚡ Fun fact **time is money**<h1 align="center">Hi 👋, I'm tangweiyang</h1>
-<h3 align="center">I come from Skudai,Johor</h3>
-
-- 🔭 I’m currently working on [Design Thinking Project](https://youtu.be/SMFT7hZgijk)
-
-- 🌱 I’m currently learning **c**
-
-- 👯 I’m looking to collaborate on [Industrial Visit](https://drive.google.com/file/d/1svd3S-d1m-s2f7pQUQaddCeglenBGc_C/view?usp=sharing)
-
-- 🤝 I’m looking for help with [-](-)
-
-- 👨‍💻 All of my projects are available at [https://github.com/tangweiyang](https://github.com/tangweiyang)
-
-- 📝 I regularly write articles on [instagram](instagram)
-
-- 💬 Ask me about **whatsapp**
-
-- 📫 How to reach me **weiyangtang3@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/tangweiyang](https://github.com/tangweiyang)
-
-- ⚡ Fun fact **time is money**
+- ⚡ Fun fact **time is money**<h1 align="center">Hi 👋, I'm tangweiy
 
 width="40" /></a>
 <a href="/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="-" height="30" width="40" /></a>
